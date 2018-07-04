@@ -1,0 +1,35 @@
+﻿Build started 2017/11/7 22:24:38.
+     1>Project "E:\Work\Project\TapeAnalysisTool\OpenCvDll\OpenCvDll.vcxproj" on node 3 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\Program\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D OPENCVDLL_EXPORTS /D _CRT_SECURE_NO_WARNINGS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt APIEntry.cpp dllmain.cpp OpenCV.cpp stdafx.cpp
+         stdafx.cpp
+         OpenCV.cpp
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(111): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(227): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(304): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(329): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(330): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(331): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(332): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(782): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(803): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(811): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(812): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(851): warning C4018: '<' : signed/unsigned mismatch
+         dllmain.cpp
+         APIEntry.cpp
+         Generating Code...
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(862): warning C4715: 'OpenCvDll::GetRectification2' : not all control paths return a value
+     1>e:\work\project\tapeanalysistool\opencvdll\opencv.cpp(840): warning C4715: 'OpenCvDll::GetRectification1' : not all control paths return a value
+       Link:
+         D:\Program\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\OpenCvDll.dll" /INCREMENTAL /NOLOGO opencv_ml2413d.lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_objdetect2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_nonfree2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_videostab2413d.lib opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\OpenCvDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\OpenCvDll.lib" /MACHINE:X86 /DLL Debug\APIEntry.obj
+         Debug\dllmain.obj
+         Debug\OpenCV.obj
+         Debug\stdafx.obj
+     1>opencv_core2413d.lib(opencv_core2413d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "E:\Work\Project\TapeAnalysisTool\OpenCvDll\OpenCvDll.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.14

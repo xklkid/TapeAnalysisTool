@@ -1,0 +1,22 @@
+﻿Build started 2017/6/9 14:00:49.
+     1>Project "C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\OpenCvDll\OpenCvDll.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D OPENCVDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt APIEntry.cpp dllmain.cpp OpenCV.cpp stdafx.cpp
+         APIEntry.cpp
+         dllmain.cpp
+         OpenCV.cpp
+         stdafx.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\Release\OpenCvDll.dll" /INCREMENTAL:NO /NOLOGO opencv_ml2413d.lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_objdetect2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_nonfree2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_videostab2413d.lib opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\Release\OpenCvDll.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\Release\OpenCvDll.lib" /MACHINE:X86 /SAFESEH /DLL Release\APIEntry.obj
+         Release\dllmain.obj
+         Release\OpenCV.obj
+         Release\stdafx.obj
+            Creating library C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\Release\OpenCvDll.lib and object C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\Release\OpenCvDll.exp
+         Generating code
+         Finished generating code
+         OpenCvDll.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\Release\OpenCvDll.dll
+     1>Done Building Project "C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\OpenCvDll\OpenCvDll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.55

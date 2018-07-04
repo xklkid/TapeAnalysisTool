@@ -1,0 +1,47 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.AnalysisForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.LoadingForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.pdb
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe.config
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.pdb
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.AnalysisForm.resources
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.LoadingForm.resources
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.Properties.Resources.resources
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.csproj.GenerateResource.Cache
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.exe
+D:\gcn15477\25_Tape\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.pdb
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe.config
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.pdb
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.AnalysisForm.resources
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.LoadingForm.resources
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.Properties.Resources.resources
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.csproj.GenerateResource.Cache
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.exe
+E:\工作\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.pdb
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe.config
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.pdb
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.csprojResolveAssemblyReference.cache
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.AnalysisForm.resources
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.LoadingForm.resources
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.Properties.Resources.resources
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.csproj.GenerateResource.Cache
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.exe
+E:\工作\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.pdb
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe.config
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.exe
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\bin\Debug\TapeAnalysisTool.pdb
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.AnalysisForm.resources
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.LoadingForm.resources
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.Properties.Resources.resources
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.csproj.GenerateResource.Cache
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.exe
+E:\Work\Project\TapeAnalysisTool\TapeAnalysisTool\obj\Debug\TapeAnalysisTool.pdb

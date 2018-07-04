@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\bin\Release\TapeAnalysisTool.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\bin\Release\TapeAnalysisTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\bin\Release\TapeAnalysisTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Release\TapeAnalysisTool.AnalysisForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Release\TapeAnalysisTool.LoadingForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Release\TapeAnalysisTool.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Release\TapeAnalysisTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Release\TapeAnalysisTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\TapeAnalysisTool\TapeAnalysisTool\obj\Release\TapeAnalysisTool.pdb
